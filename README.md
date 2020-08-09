@@ -4,6 +4,8 @@
 [![forthebadge](https://forthebadge.com/images/badges/made-with-c-plus-plus.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/made-with-c.svg)](https://forthebadge.com)
 
+![](https://i.imgur.com/eneLzaK.jpg)
+
 Based upon figuring out if it was possible to apply self-balance to a robot using nothing but the basics of the [SparkFun Inventor's Kit](//www.sparkfun.com/products/15267).
 
 
