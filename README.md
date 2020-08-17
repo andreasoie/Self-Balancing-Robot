@@ -1,8 +1,6 @@
 # Self-Balancing-Robot
 > Controlling a self-balancing robot with a PID-controller
 
-[![forthebadge](https://forthebadge.com/images/badges/made-with-c-plus-plus.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/made-with-c.svg)](https://forthebadge.com)
 
 ![](https://i.imgur.com/eneLzaK.jpg)
 
